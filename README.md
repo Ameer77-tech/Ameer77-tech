@@ -6,7 +6,7 @@
   <img src="github_Pro.jpeg" width="200" alt="Profile Logo"/>
 </p>
 
-<h1 align="center">🕷️ <strong>Hi, I’m <YOUR NAME>!</strong></h1>
+<h1 align="center">🕷️ <strong>Hi, I’m Ameer!</strong></h1>
 <h3 align="center">Full-Stack Developer | API Architect | UI/UX Enthusiast</h3>
 
 <p align="center">
@@ -22,36 +22,29 @@
 ## 🟣 About Me  
 <div style="border: 2px solid #6A0DAD; border-radius: 14px; padding: 20px; background: #0D0D0D;">
 
-👤 **Name:** `<Your Name>`  
-💼 **Role/Position:** `<Your Current Role>`  
-📍 **Location:** `<Your Country / City>`  
-💬 **Spoken Languages:** `<English / Hindi / etc>`  
-🎯 **Primary Focus:** `<Backend / Frontend / Fullstack / DevOps>`  
+👤 **Name:** `Ameer`  
+💼 **Role/Position:** `Developer`  
+📍 **Location:** `india`  
+💬 **Spoken Languages:** `English, Hindi, Telugu`  
+🎯 **Primary Focus:** `Backend / Frontend / Fullstack / DevOps`  
 🕸️ **Passion:** `<APIs / UI Design / Databases / Automation / etc>`  
 
 ---
 
 ### 🔭 What I’m Working On  
-- `<Your ongoing project #1>`  
-- `<Your ongoing project #2>`  
-- `<A new feature / module / experiment>`  
+- `Task Management App`  
 
 ### 🌱 What I'm Learning  
-- `<Tech you're currently studying>`  
-- `<New framework or tool>`  
-- `<Cloud platform or architecture concept>`  
+- `<Next js, Express, Authentication, Ai Integration>`  
+- `<Shadcn>`    
 
-### 👯 What I Want to Collaborate On  
-- `<Open-source ideas>`  
+### 👯 What I Want to Collaborate On    
 - `<Web app concepts>`  
 - `<APIs, backend, fullstack tools>`  
 
-### 🤔 I’m Looking for Help With  
-- `<Area you want help in>`  
-- `<Tech you're exploring>`  
 
 ### ⚡ Fun Fact  
-`<A fun personality detail or tech-related fact>`
+`<I Think That I Think>`
 
 </div>
 
