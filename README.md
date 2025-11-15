@@ -58,19 +58,16 @@
 <div align="center" style="border: 2px solid #6A0DAD; border-radius: 14px; padding: 20px; background: #0A0A0A;">
 
 ### 🧠 **Languages**
-`<JavaScript>` — `<TypeScript>` — `<Python>` — `<C++>` — `<Your Language>`
+`<JavaScript>` — `<TypeScript>`
 
 ### ⚙️ **Frameworks & Libraries**
 `<Node.js>` — `<Express.js>` — `<React.js>` — `<Next.js>` — `<TailwindCSS>` — `<Your Framework>`
 
 ### 🗄️ **Databases**
-`<MongoDB>` — `<PostgreSQL>` — `<MySQL>` — `<Redis>` — `<Your DB>`
+`<MongoDB>` 
 
 ### 🛠️ **Tools, Platforms & DevOps**
 `<Git>` — `<GitHub>` — `<Docker>` — `<Linux>` — `<Vercel>` — `<AWS>` — `<Your Tools>`
-
-### 🎨 **Design Tools (if any)**
-`<Figma>` — `<Photoshop>` — `<Illustrator>` — `<Your Tools>`
 
 ---
 
@@ -85,14 +82,6 @@
 <!--                 GITHUB STATS CARD               -->
 <!-- ─────────────────────────────────────────────── -->
 
-## 🟣 GitHub Stats  
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight&hide_border=true" />  
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=tokyonight&hide_border=true" />  
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -100,66 +89,6 @@
 <!--                PROJECTS CARD                    -->
 <!-- ─────────────────────────────────────────────── -->
 
-## 🟣 Featured Projects  
-<div style="border: 2px solid #6A0DAD; border-radius: 14px; padding: 22px; background: #0A0A0A;">
-
-### 🔹 **`<Project 1 Name>`**
-📝 **Description:**  
-`<A detailed explanation of your project, its purpose, and the problem it solves.>`
-
-🛠️ **Tech Stack:**  
-`<Node.js, Express.js, MongoDB, JWT, etc>`
-
-📌 **Features:**  
-- `<Feature #1>`  
-- `<Feature #2>`  
-- `<Feature #3>`  
-
-🔗 **Repository:** `<GitHub Link>`  
-🔴 **Live Demo (optional):** `<Deployment Link>`
-
----
-
-### 🔹 **`<Project 2 Name>`**
-📝 **Description:**  
-`<A mini paragraph describing this project and why you built it>`
-
-🛠️ **Tech:** `<React, Next.js, Tailwind, API, etc>`  
-
-📌 **Highlights:**  
-- `<Highlight #1>`  
-- `<Highlight #2>`  
-- `<Highlight #3>`  
-
-🔗 **Repository:** `<GitHub Link>`
-
----
-
-### 🔹 **`<Project 3 Name>`**
-📝 **Description:**  
-`<Your project details and goals>`  
-
-🛠️ **Tech Used:** `<Technologies>`
-
-🔗 Repo: `<Link>`  
-🌐 Demo: `<Link>`
-
-</div>
-
----
-
-<!-- ─────────────────────────────────────────────── -->
-<!--                  ACTIVITY CARD                  -->
-<!-- ─────────────────────────────────────────────── -->
-
-## 🟣 Activity & Contributions  
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=<your-username>&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 <!-- ─────────────────────────────────────────────── -->
 <!--              CONTACT / SOCIAL CARD              -->
