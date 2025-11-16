@@ -27,7 +27,7 @@
 📍 **Location:** `india`  
 💬 **Spoken Languages:** `English, Hindi, Telugu`  
 🎯 **Primary Focus:** `Backend / Frontend / Fullstack / DevOps`  
-🕸️ **Passion:** `<APIs / UI Design / Databases / Automation / etc>`  
+🕸️ **Passion:** `<APIs / DEvelop / Databases / Automation / etc>`  
 
 ---
 
