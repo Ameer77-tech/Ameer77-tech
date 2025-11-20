@@ -3,7 +3,7 @@
 <!-- ─────────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="github_Pro.jpeg" width="200" alt="Profile Logo"/>
+  <img src="https://avatars.githubusercontent.com/u/208180357?v=4" width="200" alt="Profile Logo"/>
 </p>
 
 <h1 align="center">🕷️ <strong>Hi, I’m Ameer!</strong></h1>
