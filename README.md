@@ -2,15 +2,6 @@
 <!--                 HEADER SECTION                  -->
 <!-- ─────────────────────────────────────────────── -->
 
-<p align="center">
- <img 
-  src="https://avatars.githubusercontent.com/u/208180357?size=200&v=4"
-  width="150"
-  height="150"
-  style="border-radius: 50%; display: block; background: transparent;"
-/>
-
-</p>
 
 <h1 align="center">🕷️ <strong>Hi, I’m Ameer!</strong></h1>
 <h3 align="center">Full-Stack Developer | API Architect | UI/UX Enthusiast</h3>
