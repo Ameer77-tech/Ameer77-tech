@@ -55,21 +55,21 @@
 <div align="center" style="border: 2px solid #6A0DAD; border-radius: 14px; padding: 20px; background: #0A0A0A;">
 
 ### 🧠 **Languages**
-`<JavaScript>` — `<TypeScript>`
+`<JavaScript>`
 
 ### ⚙️ **Frameworks & Libraries**
-`<Node.js>` — `<Express.js>` — `<React.js>` — `<Next.js>` — `<TailwindCSS>` — `<Your Framework>`
+`<Node.js>` — `<Express.js>` — `<React.js>` — `<Next.js>` — `<TailwindCSS>`
 
 ### 🗄️ **Databases**
 `<MongoDB>` 
 
 ### 🛠️ **Tools, Platforms & DevOps**
-`<Git>` — `<GitHub>` — `<Docker>` — `<Linux>` — `<Vercel>` — `<AWS>` — `<Your Tools>`
+`<Git>` — `<GitHub>` — `<Docker>` — `<Vercel>` - `<Postman>` - `<VS code>`
 
 ---
 
 ### 🖼️ Icon Representation  
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,mongodb,postgres,redis,github,git,docker,linux,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,mongodb,github,git,tailwind" />
 
 </div>
 
@@ -95,10 +95,7 @@
 <div align="center">
 
 <a href="<linkedin>"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="<twitter>"><img src="https://img.shields.io/badge/Twitter-4B0082?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="<instagram>"><img src="https://img.shields.io/badge/Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="<portfolio>"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:<email>"><img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:ameershaik.cs@gmail.com"><img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
