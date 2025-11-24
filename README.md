@@ -4,7 +4,7 @@
 
 
 <h1 align="center">🕷️ <strong>Hi, I’m Ameer!</strong></h1>
-<h3 align="center">Full-Stack Developer | API Architect | UI/UX Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | API Architect</h3>
 
 <p align="center">
   <em>“With great power comes great creativity.”</em>
