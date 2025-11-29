@@ -4,7 +4,7 @@
 
 
 <h1 align="center">🕷️ <strong>Hi, I’m Ameer!</strong></h1>
-<h3 align="center">Full-Stack Developer | API Architect</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <em>“With great power comes great creativity.”</em>
@@ -94,7 +94,7 @@
 ## 🟣 Connect With Me  
 <div align="center">
 
-<a href="<linkedin>"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/ameer-shaik-55b106364"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ameershaik.cs@gmail.com"><img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
