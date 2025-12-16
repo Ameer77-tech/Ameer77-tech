@@ -82,18 +82,15 @@
 ## 🟣 GitHub Stats  
 <div align="center" style="border: 2px solid #6A0DAD; border-radius: 14px; padding: 20px; background: #0A0A0A;">
 
-<!-- Core GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Ameer77-tech&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ameer77-tech&show_icons=true&theme=radical&hide_border=true" height="165"/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer77-tech&layout=compact&langs_count=10&theme=radical&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer77-tech&layout=compact&theme=radical&hide_border=true" height="165"/>
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=Ameer77-tech&theme=radical&no-frame=true&row=1&column=6" />
-
 </div>
+
 
 
 ---
