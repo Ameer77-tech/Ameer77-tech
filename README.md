@@ -82,13 +82,11 @@
 ## 🟣 GitHub Stats  
 <div align="center" style="border: 2px solid #6A0DAD; border-radius: 14px; padding: 20px; background: #0A0A0A;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ameer77-tech&show_icons=true&theme=radical&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer77-tech&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ameer77-tech&theme=gotham&show_icons=true&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ameer77-tech&theme=gotham&hide_border=true" height="165"/>
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ameer77-tech&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer77-tech&theme=gotham&show_icons=true&hide_border=true&layout=compact" height="165"/>
 </div>
 
 
