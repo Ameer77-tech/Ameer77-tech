@@ -24,12 +24,12 @@
 📍 **Location:** `india`  
 💬 **Spoken Languages:** `English, Hindi, Telugu`  
 🎯 **Primary Focus:** `Backend / Frontend / Fullstack / DevOps`  
-🕸️ **Passion:** `<APIs / DEvelop / Databases / Automation / etc>`  
+🕸️ **Passion:** `<Understand how to Fix>`  
 
 ---
 
 ### 🔭 What I’m Working On  
-- `Task Management App`  
+- `Backend Learning Journey`  
 
 ### 🌱 What I'm Learning  
 - `<Next js, Express, Authentication, Ai Integration>`  
@@ -40,8 +40,6 @@
 - `<APIs, backend, fullstack tools>`  
 
 
-### ⚡ Fun Fact  
-`<I Think That I Think>`
 
 </div>
 
