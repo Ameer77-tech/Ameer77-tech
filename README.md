@@ -23,21 +23,12 @@
 💼 **Role/Position:** `Developer`  
 📍 **Location:** `india`  
 💬 **Spoken Languages:** `English, Hindi, Telugu`  
-🎯 **Primary Focus:** `Backend / Frontend / Fullstack / DevOps`  
-🕸️ **Passion:** `<Understand how to Fix>`  
+🎯 **Primary Focus:** `Backend / Systems`  
 
 ---
 
-### 🔭 What I’m Working On  
-- `Backend Learning Journey`  
-
 ### 🌱 What I'm Learning  
-- `<Next js, Express, Authentication, Ai Integration>`  
-- `<Shadcn>`    
-
-### 👯 What I Want to Collaborate On    
-- `<Web app concepts>`  
-- `<APIs, backend, fullstack tools>`  
+- `<Understanding Systems, Working with ai effectively>`
 
 
 
@@ -53,7 +44,7 @@
 <div align="center" style="border: 2px solid #6A0DAD; border-radius: 14px; padding: 20px; background: #0A0A0A;">
 
 ### 🧠 **Languages**
-`<JavaScript>`
+`<JavaScript>, <Python>, <C>`
 
 ### ⚙️ **Frameworks & Libraries**
 `<Node.js>` — `<Express.js>` — `<React.js>` — `<Next.js>` — `<TailwindCSS>`
@@ -77,16 +68,14 @@
 <!--                 GITHUB STATS CARD               -->
 <!-- ─────────────────────────────────────────────── -->
 
-## 🟣 GitHub Stats  
+## 🟣 GitHub Stats
 <div align="center" style="border: 2px solid #6A0DAD; border-radius: 14px; padding: 20px; background: #0A0A0A;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ameer77-tech&theme=gotham&show_icons=true&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ameer77-tech&theme=gotham&hide_border=true" height="165"/>
-
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer77-tech&theme=gotham&show_icons=true&hide_border=true&layout=compact" height="165"/>
-</div>
-
+  <img src="https://github-stats-extended.vercel.app/api?username=Ameer77-tech&theme=gotham&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ameer77-tech&theme=gotham&hide_border=true" height="165"/>
+  <br/><br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ameer77-tech&theme=gotham&show_icons=true&hide_border=true&layout=compact" height="165"/>
+  
+</div>   
 
 
 ---
